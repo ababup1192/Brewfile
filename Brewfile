@@ -4,6 +4,8 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install vagrant
+cask install virtualbox
 
 ## rcmdnk/file
 tap rcmdnk/file
